@@ -5,13 +5,13 @@ body {
 
 .background {
   margin: 0 auto;
-  background-image: url("/home/dev/Project/Images/nav-image.jpg");
+  background-image: url("/home/dev/UI-Responsive-Front-End/UI-Responsive-Front-End-master/Images/nav-image.jpg");
   background-size: cover;
 }
 
 .contact-background {
   margin: 0 auto;
-  background-image: url("/home/dev/Project/Images/map.png");
+  background-image: url("/home/dev/UI-Responsive-Front-End/UI-Responsive-Front-End-master/Images/map.png");
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@ li {
 
 @font-face {
   font-family: myFirstFont;
-  src: url("/home/dev/Project/Fonts/Hello Valentina.ttf");
+  src: url("/home/dev/UI-Responsive-Front-End/UI-Responsive-Front-End-master/Fonts/Hello Valentina.ttf");
 }
 
 .logo {
